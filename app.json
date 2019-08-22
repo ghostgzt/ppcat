@@ -1,8 +1,26 @@
 {
-    "version":"0.0.1",
+    "version":"Demo190819",
     "versionCode":190819,
     "forceVersion":190819,
-    "updateUrl":"",
-    "updateContent":"",
-    "testCode":"16f4c3b35eb22c168506c2e8a7565c4b"
+    "updateUrl":"https://www.lanzous.com/b743927",
+    "updateContent":"下载地址 https://www.lanzous.com/b743927",
+    "betaCode":"16f4c3b35eb22c168506c2e8a7565c4b",
+    "extraList":[
+    	{
+    		"title":"其他平台",
+    		"link":"https://www.lanzous.com/b743927"
+    	},
+    	{
+    		"title":"QQ群 970222959",
+    		"link":"https://jq.qq.com/?_wv=1027&k=5SIhgmD"
+    	},
+    	{
+    		"title":"QQ群 591859003",
+    		"link":"https://jq.qq.com/?_wv=1027&k=5GtT0XZ"
+    	},
+    	{
+    		"title":"QQ群 588751182",
+    		"link":"https://jq.qq.com/?_wv=1027&k=5y022t5"
+    	}
+    ]
 }
