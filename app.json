@@ -1,8 +1,8 @@
 {
-    "version":"Demo190917",
-    "versionCode":190917,
-    "forceVersion":190913,
-	"ruleVersion":190917,
+    "version":"0.1.6",
+    "versionCode":191204,
+    "forceVersion":190926,
+    "ruleVersion":1912062,
     "ruleContent":"增加近300+来源",
 	"ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "updateUrl":"https://www.lanzous.com/b932237",
