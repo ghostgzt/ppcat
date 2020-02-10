@@ -1,0 +1,87 @@
+{
+    "version":"0.2.6",
+    "versionCode":200110,
+    "forceVersion":191225,
+    "ruleVersion":2002093,
+    "ruleContent":"修复5个失效规则",
+    "ruleUrl":"https://gentle.coding.net/p/datas/d/datas/git/raw/master/reader4exview/mhyd_sources.json",
+    "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules.bin",
+    "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
+    "updateContent":"",
+    "noticeId":200209,
+    "noticeContent":"皮皮喵新手指导与说明\n（如果你是通过淘宝购买的兑换码或账号，请退款并举报商家，因为那是黑卡盗刷，苹果将会封禁你的账号，请从苹果商店购买！）",
+    "noticeUrl":"https://mp.weixin.qq.com/s/u1ybLFqW5_yH6Kcyxl23tw",
+    "betaCode":"fae1f94c506115eb3d565c1eef081196",
+    "extraList":[
+
+        {
+            "title":"点击领取支付宝天天红包(搜索5891297)",
+            "link":"alipays://platformapi/startapp?requestType=hotword_a&appId=20001003&keyword=5891297"
+        },
+        {
+            "title":"点击领取余额宝百万体验金",
+            "link":"alipayqr://platformapi/startapp?appId=20000067&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fs%2Fi%2F%3Fscheme%3Dalipays%253A%252F%252Fplatformapi%252Fstartapp%253FappId%253D20000067%2526url%253Dhttps%25253A%25252F%25252Frender.alipay.com%25252Fp%25252Ff%25252Ffd-jqqeh032%25252Fpages%25252Finside%25252Findex.html%25253Fshareid%25253D2088702471372973%252526sign%25253DvKc%2525252FipwZff63lWF2jntWZGr8rHo3lpImusE85nwudq4%2525253D%252526enableWK%25253DYES"
+        },
+        {
+            "title":"安卓版",
+            "link":"https://www.lanzous.com/b932237"
+        },
+        {
+            "title":"全平台完整版（安卓、苹果、Windows、Mac）",
+            "link":"https://www.lanzous.com/b743927"
+        },
+        {
+            "title":"Iwara动画MMD",
+            "link":"https://mp.weixin.qq.com/s/oTk0d4I017D946kfSq9EIQ"
+        },
+        {
+            "title":"E绅士免账号",
+            "link":"https://mp.weixin.qq.com/s/sT3vs6lu1YuzQLNukm_Z1g"
+        },
+        {
+            "title":"哔咔哔咔3.0",
+            "link":"https://mp.weixin.qq.com/s/9VTZdICcPvUEx2gDYLv69w"
+        },  
+        {
+            "title":"官网",
+            "link":"https://www.exview.ml/"
+        },
+
+
+
+        {
+            "title":"技术支持QQ群 970222959",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3Dnu7Al3_xEuYlzyFtvUUUtgSxZWe7sKv8%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
+        },
+        {
+            "title":"技术支持QQ群 536120573",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DTPy1-puvq1HOtfltW3sGLyiHJtLTqVzz%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D1RKp79EGDvdUf4TCngcFJUH1Wc7p3QoRdKXnGpnfXEEKseUQZSFAbOt3n9qMPU2r"
+        },
+        {
+            "title":"技术支持QQ群 591859003",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DPUN5FZcJ0G9zBbnNiNB-UAp28N4FiiAp%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
+        },
+        {
+            "title":"技术支持QQ群 588751182",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3D9XF4XQfqQlPx7TX8Ok5gbHAQjRKdPue3%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
+        },
+
+        {
+            "title":"皮皮喵新手指导与说明",
+            "link":"https://mp.weixin.qq.com/s/u1ybLFqW5_yH6Kcyxl23tw"
+        },
+
+        {
+            "title":"技术支持公众号 tips21",
+            "link":""
+        },
+        {
+            "title":"问题反馈邮箱 gentlekwan@hotmail.com",
+            "link":"mailto:gentlekwan@hotmail.com"
+        },
+        {
+            "title":"所有内容均来源于互联网",
+            "link":""
+        }
+    ]
+}

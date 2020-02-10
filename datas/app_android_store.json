@@ -1,0 +1,39 @@
+{
+    "version":"191111",
+    "versionCode":191111,
+    "forceVersion":190926,
+    "ruleVersion":1911110,
+    "ruleContent":"",
+    "ruleUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/ppcat_store.json",
+    "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules.bin",
+    "updateUrl":"",
+    "updateContent":"",
+    "betaCode":"10502a7492b55c4c6aefc058a8959107",
+    "extraList":[
+        {
+            "title":"皮皮喵QQ群 536120573",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DTPy1-puvq1HOtfltW3sGLyiHJtLTqVzz%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D1RKp79EGDvdUf4TCngcFJUH1Wc7p3QoRdKXnGpnfXEEKseUQZSFAbOt3n9qMPU2r"
+        },
+
+        {
+            "title":"技术支持QQ群 970222959",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3Dnu7Al3_xEuYlzyFtvUUUtgSxZWe7sKv8%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
+        },
+        {
+            "title":"技术支持QQ群 591859003",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DPUN5FZcJ0G9zBbnNiNB-UAp28N4FiiAp%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
+        },
+        {
+            "title":"技术支持QQ群 588751182",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3D9XF4XQfqQlPx7TX8Ok5gbHAQjRKdPue3%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
+        },
+        {
+            "title":"技术支持公众号 tips21",
+            "link":""
+        }, 
+        {
+            "title":"所有内容均来源于互联网",
+            "link":""
+        }        
+    ]
+}
