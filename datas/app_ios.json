@@ -2,7 +2,7 @@
     "version":"0.2.5",
     "versionCode":191226,
     "forceVersion":191225,
-    "ruleVersion":2002093,
+    "ruleVersion":2002094,
     "ruleContent":"修复5个失效规则",
     "ruleUrl":"https://gentle.coding.net/p/datas/d/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules.bin",
