@@ -1,7 +1,7 @@
 {
-    "version":"0.2.6",
-    "versionCode":200110,
-    "forceVersion":191225,
+    "version":"0.2.8",
+    "versionCode":200210,
+    "forceVersion":200201,
     "ruleVersion":2002094,
     "ruleContent":"修复5个失效规则",
     "ruleUrl":"https://gentle.coding.net/p/datas/d/datas/git/raw/master/reader4exview/mhyd_sources.json",
@@ -15,7 +15,38 @@
     "extraList":[
 
 
-
+        {
+            "title":"点击领取支付宝天天红包(搜索5891297)",
+            "link":"alipays://platformapi/startapp?requestType=hotword_a&appId=20001003&keyword=5891297"
+        },
+        {
+            "title":"点击领取余额宝百万体验金",
+            "link":"alipayqr://platformapi/startapp?appId=20000067&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fs%2Fi%2F%3Fscheme%3Dalipays%253A%252F%252Fplatformapi%252Fstartapp%253FappId%253D20000067%2526url%253Dhttps%25253A%25252F%25252Frender.alipay.com%25252Fp%25252Ff%25252Ffd-jqqeh032%25252Fpages%25252Finside%25252Findex.html%25253Fshareid%25253D2088702471372973%252526sign%25253DvKc%2525252FipwZff63lWF2jntWZGr8rHo3lpImusE85nwudq4%2525253D%252526enableWK%25253DYES"
+        },
+        {
+            "title":"安卓版",
+            "link":"https://www.lanzous.com/b932237"
+        },
+        {
+            "title":"全平台完整版（安卓、苹果、Windows、Mac）",
+            "link":"https://www.lanzous.com/b743927"
+        },
+        {
+            "title":"Iwara动画MMD",
+            "link":"https://mp.weixin.qq.com/s/oTk0d4I017D946kfSq9EIQ"
+        },
+        {
+            "title":"E绅士免账号",
+            "link":"https://mp.weixin.qq.com/s/sT3vs6lu1YuzQLNukm_Z1g"
+        },
+        {
+            "title":"哔咔哔咔3.0",
+            "link":"https://mp.weixin.qq.com/s/9VTZdICcPvUEx2gDYLv69w"
+        },  
+        {
+            "title":"官网",
+            "link":"https://www.exview.ml/"
+        },
 
 
         {
