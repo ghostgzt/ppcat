@@ -2,7 +2,7 @@
     "version":"0.2.9",
     "versionCode":200310,
     "forceVersion":200101,
-    "ruleVersion":2003110,
+    "ruleVersion":2003111,
     "ruleContent":"修复16个失效规则，新增19个新规则",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules.bin",
     "updateUrl":"https://www.lanzous.com/b932237",
