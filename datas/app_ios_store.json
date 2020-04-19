@@ -4,7 +4,7 @@
     "forceVersion":200201,
     "ruleVersion":2004191,
     "ruleContent":"修复1个失效规则\n增加1个新增规则",
-    "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules.bin",
+    "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
     "updateContent":"",
     "noticeId":200209,
