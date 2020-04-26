@@ -1,6 +1,6 @@
 {
-    "version":"0.3.0",
-    "versionCode":200416,
+    "version":"0.3.1",
+    "versionCode":200424,
     "forceVersion":200401,
     "ruleVersion":2004203,
     "ruleContent":"修复3个失效规则\n增加8个新增规则",
@@ -12,8 +12,14 @@
     "noticeUrl":"https://support.qq.com/products/130931",
 
     "extraList":[
-
-
+        {
+            "title":"安卓版",
+            "link":"https://www.lanzous.com/b932237"
+        },
+        {
+            "title":"桌面版",
+            "link":"https://www.lanzous.com/b743927"
+        },
 
         {
             "title":"技术支持QQ群 970222959",
