@@ -1,6 +1,6 @@
 {
-    "version":"0.3.0",
-    "versionCode":200416,
+    "version":"0.3.1",
+    "versionCode":200428,
     "forceVersion":200101,
     "ruleVersion":2004200,
     "ruleContent":"修复3个失效规则\n增加8个新增规则",
