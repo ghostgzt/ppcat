@@ -9,7 +9,7 @@
     "updateContent":"",
     "noticeId":191222,
     "noticeContent":"皮皮喵新手指导与说明",
-    "noticeUrl":"https://support.qq.com/products/130931",
+    "noticeUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
 
     "extraList":[
         {
@@ -59,6 +59,10 @@
         {
             "title":"问题反馈邮箱 gentlekwan@hotmail.com",
             "link":"mailto:gentlekwan@hotmail.com"
+        },
+        {
+            "title":"新手指导",
+            "link":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A"
         },
         {
             "title":"讨论反馈",

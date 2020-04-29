@@ -9,7 +9,7 @@
     "updateContent":"",
     "noticeId":191212,
     "noticeContent":"欢迎加入皮皮喵①群",
-    "noticeUrl":"https://jq.qq.com/?_wv=1027&k=5yot389",
+    "noticeUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
     "betaCode":"9756342aa9434be0fe3651cbfab0a93e",
     "extraList":[
         {
@@ -19,10 +19,6 @@
         {
             "title":"点击领取支付宝天天红包(搜索5891297)",
             "link":"alipays://platformapi/startapp?requestType=hotword_a&appId=20001003&keyword=5891297"
-        },
-        {
-            "title":"点击领取余额宝百万体验金",
-            "link":"alipayqr://platformapi/startapp?appId=20000067&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fs%2Fi%2F%3Fscheme%3Dalipays%253A%252F%252Fplatformapi%252Fstartapp%253FappId%253D20000067%2526url%253Dhttps%25253A%25252F%25252Frender.alipay.com%25252Fp%25252Ff%25252Ffd-jqqeh032%25252Fpages%25252Finside%25252Findex.html%25253Fshareid%25253D2088702471372973%252526sign%25253DvKc%2525252FipwZff63lWF2jntWZGr8rHo3lpImusE85nwudq4%2525253D%252526enableWK%25253DYES"
         },
         {
             "title":"公众号 tips21 （为了不失联务必请关注）",
@@ -55,7 +51,7 @@
 
         {
             "title":"皮皮喵新手指导与说明",
-            "link":"https://mp.weixin.qq.com/s/u1ybLFqW5_yH6Kcyxl23tw"
+            "link":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A"
         },
 
         {

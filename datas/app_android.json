@@ -10,13 +10,13 @@
     "noticeId":191227,
     "noticeContent":"欢迎加入皮皮喵QQ群(1025967070)，皮皮喵新手指导与说明请看群公告，关注公众号tips21",
     "noticeUrl":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DB5oAHAPTfbFlPdHI9oP-DjlkzyiMMmTv%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3Dt09FSyspUyv3ArQiwdOzbmX6MaOCIkNSXY1Hdfh6neo6Gixm1PhfGwPtBBUSghj%2F",
-    "noticeBakUrl":"https://mp.weixin.qq.com/s/u1ybLFqW5_yH6Kcyxl23tw",
+    "noticeBakUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
     "betaCode":"9756342aa9434be0fe3651cbfab0a93e",
     "extraList":[
 
         {
             "title":"皮皮喵新手指导与说明",
-            "link":"https://mp.weixin.qq.com/s/u1ybLFqW5_yH6Kcyxl23tw"
+            "link":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A"
         },
 
         {
@@ -61,11 +61,6 @@
             "link":"https://545c.com/dir/923436-36650186-c98c47"
         },  
 
-        {
-            "title":"皮皮喵新手指导与说明",
-            "link":"https://mp.weixin.qq.com/s/u1ybLFqW5_yH6Kcyxl23tw"
-        },
-
 
         {
             "title":"QQ群 970222959",
@@ -104,20 +99,20 @@
             "link":"https://noone.ltd/ExView"
         },
         {
-            "title":"讨论反馈",
-            "link":"https://support.qq.com/products/130931"
-        },
-        {
-            "title":"公众号 tips21 （为了不失联务必请关注）",
+            "title":"公众号 tips21 （为了不失联请务必关注）",
             "link":"https://mp.weixin.qq.com/s/T0k1rBup0IjJmMJcligXtA"
         },
         {
-            "title":"捐赠",
+            "title":"打赏皮皮喵",
             "link":"https://mp.weixin.qq.com/s/T0k1rBup0IjJmMJcligXtA"
         },
         {
             "title":"问题反馈邮箱 gentlekwan@hotmail.com",
             "link":"mailto:gentlekwan@hotmail.com"
+        },
+        {
+            "title":"讨论反馈",
+            "link":"https://support.qq.com/products/130931"
         },
         {
             "title":"所有内容均来源于互联网，请多多推广支持！",
