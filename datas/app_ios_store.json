@@ -2,13 +2,13 @@
     "version":"0.3.1",
     "versionCode":200424,
     "forceVersion":200401,
-    "ruleVersion":2005102,
-    "ruleContent":"修复9个规则\n新增7个规则",
+    "ruleVersion":2005103,
+    "ruleContent":"修复12个规则\n新增7个规则",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
     "updateContent":"",
     "noticeId":200209,
-    "noticeContent":"皮皮喵新手指导与说明\n（如果你是通过非苹果商店购买的兑换码或共享账号盗版，可能会导致你的账号被封禁，请从苹果商店购买！）",
+    "noticeContent":"皮皮喵新手指导与说明\n（如果你是通过第三方购买的兑换码或共享盗版，可能会导致你的账号被封禁，请从正规途径购买！）",
     "noticeUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
 
     "extraList":[
