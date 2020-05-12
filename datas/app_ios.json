@@ -2,7 +2,7 @@
     "version":"0.2.8",
     "versionCode":200210,
     "forceVersion":200201,
-    "ruleVersion":2005104,
+    "ruleVersion":2005105,
     "ruleContent":"修复12个规则\n新增7个规则",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules.bin",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
