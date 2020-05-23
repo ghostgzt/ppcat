@@ -2,7 +2,7 @@
     "version":"0.3.1",
     "versionCode":200424,
     "forceVersion":200401,
-    "ruleVersion":2005180,
+    "ruleVersion":2005240,
     "ruleContent":"修复1个规则",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
