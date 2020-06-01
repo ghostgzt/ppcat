@@ -1,16 +1,26 @@
 {
-    "version":"0.3.1",
-    "versionCode":200424,
-    "forceVersion":200401,
+    "version":"0.3.5",
+    "versionCode":200601,
+    "forceVersion":200601,
     "ruleVersion":2005300,
     "ruleContent":"修复1个规则",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
     "updateContent":"",
-    
+    "noticeId":200209,
+    "noticeContent":"皮皮喵新手指导与说明\n（使用盗版，最终会导致APP不再维护！非官方兑换码或共享盗版，会导致你的手机账号被封禁，出现远程锁定，数据被擦除等问题，请从正规途径购买！）",
+    "noticeUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
 
     "extraList":[
-      
+        {
+            "title":"安卓版",
+            "link":"https://vip.lanzous.com/b932237"
+        },
+        {
+            "title":"全平台完整版（安卓、苹果、Windows、Mac）",
+            "link":"https://vip.lanzous.com/b743927"
+        },
+
         {
             "title":"技术支持QQ群 970222959",
             "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3Dnu7Al3_xEuYlzyFtvUUUtgSxZWe7sKv8%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
@@ -49,6 +59,18 @@
         },
 
 
+        {
+            "title":"Iwara动画MMD",
+            "link":"https://share.gtool.ml/blog/iwara.html"
+        },
+        {
+            "title":"E绅士免账号",
+            "link":"https://share.gtool.ml/blog/exhentai.html"
+        },
+        {
+            "title":"哔咔哔咔3.0",
+            "link":"https://share.gtool.ml/blog/picapica.html"
+        },  
 
 
         {
