@@ -2,7 +2,7 @@
     "version":"0.3.5",
     "versionCode":200604,
     "forceVersion":200101,
-    "ruleVersion":2006140,
+    "ruleVersion":2006150,
     "ruleContent":"修复1个规则",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules.bin",
     "updateUrl":"https://vip.lanzous.com/b932237",
