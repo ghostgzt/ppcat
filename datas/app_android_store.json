@@ -4,11 +4,10 @@
     "forceVersion":190926,
     "ruleVersion":1911110,
     "ruleContent":"",
-    "ruleUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/ppcat_store.json",
-    "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules.bin",
+    "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/ppcat.bin",
     "updateUrl":"",
     "updateContent":"",
-    "betaCode":"10502a7492b55c4c6aefc058a8959107",
+
     "extraList":[
         {
             "title":"技术支持QQ群 970222959",
