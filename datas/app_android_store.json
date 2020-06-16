@@ -46,5 +46,6 @@
             "title":"搜索基于非人工检索方式，所有内容均来源于互联网",
             "link":""
         }        
-    ]
+    ],
+    "shortUrlJs":"dmFyIHRpbWVvdXQ9c2V0VGltZW91dChmdW5jdGlvbigpew0KICBjYWxsYmFja01zZygiIik7DQp9LDEwMDAwKTsNCnRyeXsNCiAgJC5nZXQoImh0dHA6Ly9kd3ouMnhiLmNuL3Q/dXJsPSIrZW5jb2RlVVJJQ29tcG9uZW50KHNvdXJjZVVybCksZnVuY3Rpb24oZGF0YSxzdGF0dXMpew0KICAgIGlmKHR5cGVvZihkYXRhKT09J29iamVjdCcpew0KICAgICAgZGF0YT0iaHR0cDovL2MucGMucXEuY29tL21pZGRsZW0uaHRtbD9wZnVybD0iK2VuY29kZVVSSShkYXRhLnNob3J0VXJsKTsNCiAgICB9DQogICAgY2xlYXJUaW1lb3V0KHRpbWVvdXQpOw0KICAgIGNhbGxiYWNrTXNnKGRhdGEpDQogIH0pOyAgDQp9Y2F0Y2goZSl7DQogIGNsZWFyVGltZW91dCh0aW1lb3V0KTsNCiAgY2FsbGJhY2tNc2coIiIpDQp9DQoNCg=="
 }
