@@ -2,8 +2,8 @@
     "version":"0.3.5",
     "versionCode":200601,
     "forceVersion":200601,
-    "ruleVersion":2006201,
-    "ruleContent":"修复3个规则",
+    "ruleVersion":2006220,
+    "ruleContent":"修复18个来源\n移除39个倒闭网站",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
     "updateContent":"",
@@ -87,7 +87,7 @@
             "link":"https://support.qq.com/products/130931"
         },
         {
-            "title":"搜索基于非人工检索方式，所有内容均来源于互联网",
+            "title":"所有来源基于非人工检索方式从互联网搜索引擎自动收录，所有内容均来源于互联网",
             "link":""
         }
     ],
