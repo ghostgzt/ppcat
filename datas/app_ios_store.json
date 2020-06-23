@@ -3,24 +3,13 @@
     "versionCode":200601,
     "forceVersion":200601,
     "ruleVersion":2006222,
-    "ruleContent":"修复24个来源\n移除60个倒闭网站",
+    "ruleContent":"",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
     "updateContent":"",
-    "noticeId":200209,
-    "noticeContent":"皮皮喵新手指导与说明\n（如果使用盗版，最终会导致APP不再维护！非官方兑换码或共享盗版，会导致你的手机账号被封禁，出现远程锁定，数据被擦除等问题，请从正规途径购买！）",
-    "noticeUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
-    "shareUrl":"https://share.gtool.ml/jump.html?ppcat=0",
 
     "extraList":[
-        {
-            "title":"安卓版",
-            "link":"https://vip.lanzous.com/b932237"
-        },
-        {
-            "title":"全平台完整版（安卓、苹果、Windows、Mac）",
-            "link":"https://vip.lanzous.com/b743927"
-        },
+
 
         {
             "title":"技术支持QQ群 970222959",
@@ -60,32 +49,13 @@
         },
 
 
-        {
-            "title":"Iwara动画MMD",
-            "link":"https://share.gtool.ml/blog/iwara.html"
-        },
-        {
-            "title":"E绅士免账号",
-            "link":"https://share.gtool.ml/blog/exhentai.html"
-        },
-        {
-            "title":"哔咔哔咔3.0",
-            "link":"https://share.gtool.ml/blog/picapica.html"
-        },  
 
 
         {
             "title":"问题反馈邮箱 gentlekwan@hotmail.com",
             "link":"mailto:gentlekwan@hotmail.com"
         },
-        {
-            "title":"新手指导",
-            "link":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A"
-        },
-        {
-            "title":"讨论反馈",
-            "link":"https://support.qq.com/products/130931"
-        },
+
         {
             "title":"所有来源基于非人工检索方式从互联网搜索引擎自动收录，所有内容均来源于互联网",
             "link":""
