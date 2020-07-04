@@ -1,6 +1,6 @@
 {
-    "version":"0.3.7",
-    "versionCode":200703,
+    "version":"0.3.6",
+    "versionCode":200622,
     "forceVersion":200101,
     "ruleVersion":2007030,
     "ruleContent":"修复8个来源",
