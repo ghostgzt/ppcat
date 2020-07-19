@@ -3,7 +3,7 @@
     "versionCode":200705,
     "forceVersion":200101,
     "ruleVersion":2007190,
-    "ruleContent":"新增1个来源\n修复3个来源\n移除1个来源",
+    "ruleContent":"新增1个来源\n修复8个来源\n移除3个来源",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules.bin",
     "updateUrl":"https://vip.lanzous.com/b932237",
     "updateContent":"1.优化广告显示\n2.修复某些机子闪退\n3.优化APP体积\n4.修复有些机子不能绑定QQ\n5.连续模式增加预载功能\n6.增加固定来源记录功能\n7.优化部分界面\nPS.如果你无法正常更新，可能你的是被篡改的盗版APP,请卸载后安装正版APP!\n请不要用小米自带的浏览器下载，会被劫持！\n下载地址 https://vip.lanzous.com/b932237",
