@@ -1,14 +1,27 @@
 {
-    "version": "0.2.8",
-    "versionCode": 200210,
-    "forceVersion": 191211,
+    "version": "0.4.0",
+    "versionCode": 200728,
+    "forceVersion": 200720,
     "ruleVersion": 2008011,
-    "ruleContent": "",
+    "ruleContent": "新增2个来源\n修复9个来源",
     "ruleBinUrl": "https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl": "https://apps.apple.com/cn/app/id1493174292",
-    "updateContent": "",
+    "updateContent": "需要升级最新版",
     "shareUrl": "https://share.gtool.ml/jump.html?ppcat=0",
     "extraList": [
+        {
+            "title": "苹果无广告更多来源版",
+            "link": "https://apps.apple.com/cn/app/id1487839029"
+        },
+        {
+            "title":"安卓版",
+            "link":"https://vip.lanzous.com/b932237"
+        },
+        {
+            "title":"全平台完整版（安卓、苹果、Windows、Mac）",
+            "link":"https://vip.lanzous.com/b743927"
+        },
+
         {
             "title": "技术支持QQ群 970222959",
             "link": "mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3Dnu7Al3_xEuYlzyFtvUUUtgSxZWe7sKv8%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
@@ -45,9 +58,32 @@
             "title": "技术支持公众号 tips21",
             "link": ""
         },
+        
         {
-            "title": "问题反馈邮箱 gentlekwan@hotmail.com",
-            "link": "mailto:gentlekwan@hotmail.com"
+            "title":"Iwara动画MMD",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/iwara.html"
+        },
+        {
+            "title":"E绅士免账号",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/exhentai.html"
+        },
+        {
+            "title":"哔咔哔咔3.0",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/picapica.html"
+        },  
+
+
+        {
+            "title":"问题反馈邮箱 gentlekwan@hotmail.com",
+            "link":"mailto:gentlekwan@hotmail.com"
+        },
+        {
+            "title":"新手指导",
+            "link":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A"
+        },
+        {
+            "title":"讨论反馈",
+            "link":"https://support.qq.com/products/130931"
         },
         {
             "title": "所有来源基于非人工检索方式从互联网搜索引擎自动收录，所有内容均来源于互联网",
