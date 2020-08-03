@@ -2,7 +2,7 @@
     "version": "0.4.0",
     "versionCode": 200728,
     "forceVersion": 200720,
-    "ruleVersion":2008012,
+    "ruleVersion":2008030,
     "ruleContent":"新增3个来源\n修复11个来源",
     "ruleBinUrl": "https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl": "https://apps.apple.com/cn/app/id1493174292",
