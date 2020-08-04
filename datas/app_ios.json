@@ -15,6 +15,14 @@
     "betaCode":"8d56f355da3714754ec7d506680da249",
     "extraList":[
         {
+            "title": "苹果无广告更多来源版",
+            "link": "https://apps.apple.com/cn/app/id1487839029"
+        },
+        {
+            "title":"安卓版",
+            "link":"https://vip.lanzous.com/b932237"
+        },
+        {
             "title":"全平台完整版（安卓、苹果、Windows、Mac）",
             "link":"https://vip.lanzous.com/b743927"
         },
@@ -30,22 +38,8 @@
             "title":"捐赠",
             "link":"https://mp.weixin.qq.com/s/T0k1rBup0IjJmMJcligXtA"
         },
-        {
-            "title":"Iwara动画MMD",
-            "link":"https://gentle.gitee.io/datas/ppcat/blog/iwara.html"
-        },
-        {
-            "title":"E绅士免账号",
-            "link":"https://gentle.gitee.io/datas/ppcat/blog/exhentai.html"
-        },
-        {
-            "title":"哔咔哔咔3.0",
-            "link":"https://gentle.gitee.io/datas/ppcat/blog/picapica.html"
-        },  
-        {
-            "title":"官网",
-            "link":"https://www.exview.ml/"
-        },
+
+        
         {
             "title":"二次元涩兔合集下载",
             "link":"https://545c.com/dir/923436-36650186-c98c47"
@@ -101,13 +95,39 @@
             "link":"https://www.exview.ml/"
         },
         {
+            "title":"Iwara动画MMD",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/iwara.html"
+        },
+        {
+            "title":"E绅士免账号",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/exhentai.html"
+        },
+        {
+            "title":"哔咔哔咔3.0",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/picapica.html"
+        },  
+
+
+        {
+            "title":"问题反馈邮箱 gentlekwan@hotmail.com",
+            "link":"mailto:gentlekwan@hotmail.com"
+        },
+        {
+            "title":"新手指导",
+            "link":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A"
+        },
+        {
             "title":"讨论反馈",
             "link":"https://support.qq.com/products/130931"
         },
         {
-            "title":"所有来源基于非人工检索方式从互联网搜索引擎自动收录，所有内容均来源于互联网",
-            "link":""
-        }    
+            "title": "所有来源基于非人工检索方式从互联网搜索引擎自动收录，所有内容均来源于互联网",
+            "link": ""
+        },
+        {
+            "title":"皮皮喵相关工具免责声明",
+            "link":"https://gitee.com/gentle/Datas/raw/master/ppcat/disclaimer.txt"
+        }
     ],
     "shortUrlJs":"dmFyIHRpbWVvdXQ9c2V0VGltZW91dChmdW5jdGlvbigpew0KICBjYWxsYmFja01zZygiIik7DQp9LDEwMDAwKTsNCnRyeXsNCiAgJC5nZXQoImh0dHBzOi8vd3d3LmVjeC5jeC9hcGk/a2V5PXdTNG5OS3ZHaVcwUyZ1cmw9IitlbmNvZGVVUklDb21wb25lbnQoc291cmNlVXJsKSxmdW5jdGlvbihkYXRhLHN0YXR1cyl7DQogICAgaWYodHlwZW9mKGRhdGEpPT0nb2JqZWN0Jyl7DQogICAgICAgZGF0YT1kYXRhfHxzb3VyY2VVcmw7DQogICAgfQ0KICAgIGlmKGRhdGEuaW5kZXhPZigiaHR0cCIpIT0wKSBkYXRhPXNvdXJjZVVybDsNCiAgICBkYXRhPSJodHRwOi8vYy5wYy5xcS5jb20vbWlkZGxlbS5odG1sP3BmdXJsPSIrZW5jb2RlVVJJKGRhdGEpOw0KICAgIGNsZWFyVGltZW91dCh0aW1lb3V0KTsNCiAgICBjYWxsYmFja01zZyhkYXRhKQ0KICB9KTsgIA0KfWNhdGNoKGUpew0KICBjbGVhclRpbWVvdXQodGltZW91dCk7DQogIGNhbGxiYWNrTXNnKCIiKQ0KfQ=="
 }
