@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
-    "versionCode": 200728,
+    "version": "0.4.1",
+    "versionCode": 200805,
     "forceVersion": 200720,
     "ruleVersion":2008040,
     "ruleContent":"",
     "ruleBinUrl": "https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl": "https://apps.apple.com/cn/app/id1493174292",
-    "updateContent": "需要升级最新版",
+    "updateContent": "",
     "shareUrl": "https://share.gtool.ml/jump.html?ppcat=0",
     "extraList": [
         {
