@@ -49,7 +49,11 @@
         {
             "title":"所有来源基于非人工检索方式从互联网搜索引擎自动收录，所有内容均来源于互联网",
             "link":""
-        }      
+        },
+        {
+            "title":"皮皮喵相关工具免责声明",
+            "link":"https://gitee.com/gentle/Datas/raw/master/ppcat/disclaimer.txt"
+        }
     ],
     "shortUrlJs":"dmFyIHRpbWVvdXQ9c2V0VGltZW91dChmdW5jdGlvbigpew0KICBjYWxsYmFja01zZygiIik7DQp9LDEwMDAwKTsNCnRyeXsNCiAgJC5nZXQoImh0dHBzOi8vd3d3LmVjeC5jeC9hcGk/a2V5PXdTNG5OS3ZHaVcwUyZ1cmw9IitlbmNvZGVVUklDb21wb25lbnQoc291cmNlVXJsKSxmdW5jdGlvbihkYXRhLHN0YXR1cyl7DQogICAgaWYodHlwZW9mKGRhdGEpPT0nb2JqZWN0Jyl7DQogICAgICAgZGF0YT1kYXRhfHxzb3VyY2VVcmw7DQogICAgfQ0KICAgIGlmKGRhdGEuaW5kZXhPZigiaHR0cCIpIT0wKSBkYXRhPXNvdXJjZVVybDsNCiAgICBkYXRhPSJodHRwOi8vYy5wYy5xcS5jb20vbWlkZGxlbS5odG1sP3BmdXJsPSIrZW5jb2RlVVJJKGRhdGEpOw0KICAgIGNsZWFyVGltZW91dCh0aW1lb3V0KTsNCiAgICBjYWxsYmFja01zZyhkYXRhKQ0KICB9KTsgIA0KfWNhdGNoKGUpew0KICBjbGVhclRpbWVvdXQodGltZW91dCk7DQogIGNhbGxiYWNrTXNnKCIiKQ0KfQ=="
 }
