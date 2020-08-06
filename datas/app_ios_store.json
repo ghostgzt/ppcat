@@ -14,6 +14,10 @@
     "shareUrl":"https://share.gtool.ml/jump.html?ppcat=0",
     "extraList":[
         {
+            "title": "苹果无广告更多来源版",
+            "link": "https://apps.apple.com/cn/app/id1487839029"
+        },
+        {
             "title":"技术支持QQ群 970222959",
             "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3Dnu7Al3_xEuYlzyFtvUUUtgSxZWe7sKv8%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
         },
