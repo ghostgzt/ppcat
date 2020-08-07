@@ -2,7 +2,7 @@
     "version": "0.4.1",
     "versionCode": 200805,
     "forceVersion": 200720,
-    "ruleVersion":2008040,
+    "ruleVersion":2008041,
     "ruleContent":"",
     "ruleBinUrl": "https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl": "https://apps.apple.com/cn/app/id1493174292",
