@@ -26,6 +26,10 @@
             "link":"https://vip.lanzous.com/b743927"
         },
         {
+            "title":"点击领取支付宝天天红包(搜索5891297)",
+            "link":"alipays://platformapi/startapp?requestType=hotword_a&appId=20001003&keyword=5891297"
+        },
+        {
             "title": "技术支持QQ群 970222959",
             "link": "mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3Dnu7Al3_xEuYlzyFtvUUUtgSxZWe7sKv8%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
         },
