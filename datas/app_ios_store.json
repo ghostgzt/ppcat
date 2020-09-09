@@ -7,17 +7,40 @@
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
     "updateContent":"请前往AppStore进行更新，搜索 皮皮喵漫画 有免费版",
+    "noticeId":200728,
+    "noticeContent":"欢迎加入皮皮喵QQ群(754484134)，已加其他群的不用加了，皮皮喵新手指导与说明请看群公告，关注公众号tips21,获取更多资源！",
+    "noticeUrl":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DB5oAHAPTfbFlPdHI9oP-DjlkzyiMMmTv%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3Dt09FSyspUyv3ArQiwdOzbmX6MaOCIkNSXY1Hdfh6neo6Gixm1PhfGwPtBBUSghj%2F",
+    "noticeBakUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
     "shareUrl":"https://share.gtool.ml/jump.html?ppcat=0",
     "wxName":"tips21",
     "extraList":[
+        {
+            "title":"皮皮喵新手指导与说明",
+            "link":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A"
+        },
 
+        {
+            "title":"皮皮喵如何订阅第三方来源仓库",
+            "link":"https://mp.weixin.qq.com/s/A8mZ9N1JRtkuT2GauMb8Zw"
+        },
 
         {
             "title": "皮皮喵苹果免费版",
             "link": "https://apps.apple.com/cn/app/id1493174292"
         },
 
-       
+        {
+            "title":"安卓版",
+            "link":"https://vip.lanzous.com/b932237"
+        },
+        {
+            "title":"全平台完整版（安卓、苹果、Windows、Mac）",
+            "link":"https://vip.lanzous.com/b743927"
+        },
+        {
+            "title":"点击领取支付宝天天红包(搜索5891297)",
+            "link":"alipays://platformapi/startapp?requestType=hotword_a&appId=20001003&keyword=5891297"
+        },
         {
             "title":"技术支持QQ群 970222959",
             "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3Dnu7Al3_xEuYlzyFtvUUUtgSxZWe7sKv8%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
@@ -55,13 +78,31 @@
             "link":""
         },
 
-      
+        {
+            "title":"Iwara动画MMD",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/iwara.html"
+        },
+        {
+            "title":"E绅士免账号",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/exhentai.html"
+        },
+        {
+            "title":"哔咔哔咔3.0",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/picapica.html"
+        },  
 
         {
             "title":"问题反馈邮箱 gentlekwan@hotmail.com",
             "link":"mailto:gentlekwan@hotmail.com"
         },
-
+        {
+            "title":"新手指导",
+            "link":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A"
+        },
+        {
+            "title":"讨论反馈",
+            "link":"https://support.qq.com/products/130931"
+        },
         {
             "title": "所有来源基于非人工检索方式从互联网搜索引擎自动收录，所有内容均来源于互联网",
             "link": ""
