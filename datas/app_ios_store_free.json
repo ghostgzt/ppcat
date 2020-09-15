@@ -2,7 +2,7 @@
     "version": "0.4.0",
     "versionCode": 200720,
     "forceVersion": 200720,
-    "ruleVersion":2009113,
+    "ruleVersion":2009160,
     "ruleContent":"",
     "ruleBinUrl": "https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl": "https://apps.apple.com/cn/app/id1493174292",
@@ -27,7 +27,7 @@
             "title":"点击领取支付宝天天红包(搜索5891297)",
             "link":"alipays://platformapi/startapp?requestType=hotword_a&appId=20001003&keyword=5891297"
         },
-        
+
         {
             "title":"二次元涩兔合集下载",
             "link":"https://545c.com/dir/923436-36650186-c98c47"
