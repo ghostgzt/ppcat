@@ -7,12 +7,66 @@
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
     "updateContent":"请前往AppStore进行更新，搜索 皮皮喵漫画 有免费版",
-    
+    "noticeId":200910,
+    "noticeContent":"关注公众号tips21,获取更多资源！欢迎加入皮皮喵QQ群(1025967070)，皮皮喵新手指导与说明请看群公告!\n（非官方兑换码或共享盗版，会导致你的手机账号被永久封禁，出现远程锁定，数据被擦除等问题，请从正规途径购买或商店搜索免费的皮皮喵Lite！）",
+    "noticeUrl":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DrC9BNIXTF0xzlccZr4rXiaWDl1GySVbp%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3DTtFonWanaLprobnc5RQ4BiueRmX5wpN%2FvHWWnNsfn%2Bhoij0uBK2lYOhWjvuTPKA0",
+    "noticeBakUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
     "shareUrl":"https://share.gtool.ml/jump.html?ppcat=0",
     "wxName":"tips21",
-
+    "showTips":true,
     "extraList":[
-      
+        {
+            "title":"皮皮喵新手指导与说明",
+            "link":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A"
+        },
+
+        {
+            "title":"皮皮喵免广告特权",
+            "link":"https://mp.weixin.qq.com/s/yk50jFrL_uNfhb-NPv-pvA"
+        },
+        {
+            "title":"皮皮喵如何订阅第三方来源仓库",
+            "link":"https://mp.weixin.qq.com/s/A8mZ9N1JRtkuT2GauMb8Zw"
+        },
+        {
+            "title":"皮皮喵IOS免费版",
+            "link":"https://apps.apple.com/cn/app/id1493174292"
+        },
+        {
+            "title":"皮皮喵IOS去广告付费版",
+            "link":"https://apps.apple.com/cn/app/id1487839029"
+        },
+        {
+            "title":"皮皮喵安卓版",
+            "link":"https://vip.lanzous.com/b932237"
+        },
+        {
+            "title":"全平台完整版（安卓、苹果、Windows、Mac）",
+            "link":"https://vip.lanzous.com/b743927"
+        },
+        {
+            "title":"点击领取支付宝天天红包(搜索5891297)",
+            "link":"alipays://platformapi/startapp?requestType=hotword_a&appId=20001003&keyword=5891297"
+        },
+
+
+
+        {
+            "title":"二次元涩兔合集下载",
+            "link":"https://545c.com/dir/923436-36650186-c98c47"
+        },  
+        {
+            "title":"Iwara动画MMD",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/iwara.html"
+        },
+        {
+            "title":"E绅士免账号",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/exhentai.html"
+        },
+        {
+            "title":"哔咔哔咔3.0",
+            "link":"https://gentle.gitee.io/datas/ppcat/blog/picapica.html"
+        },  
 
 
 
@@ -58,8 +112,14 @@
             "title":"问题反馈邮箱 gentlekwan@hotmail.com",
             "link":"mailto:gentlekwan@hotmail.com"
         },
-
-
+        {
+            "title":"打赏皮皮喵",
+            "link":"https://mp.weixin.qq.com/s/T0k1rBup0IjJmMJcligXtA"
+        },
+        {
+            "title":"讨论反馈",
+            "link":"https://support.qq.com/products/130931"
+        },
         {
             "title":"公众号 tips21",
             "link":""
