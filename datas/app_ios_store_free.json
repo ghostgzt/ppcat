@@ -2,6 +2,7 @@
     "version":"0.4.0",
     "versionCode":200720,
     "forceVersion": 200720,
+    "nextVersion": 201126,
     "ruleVersion":2011250,
     "ruleContent":"",
     "ruleBinUrl": "https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/mh_rules_ios.bin",
