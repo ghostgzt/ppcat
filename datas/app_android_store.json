@@ -4,7 +4,7 @@
     "forceVersion":190926,
     "ruleVersion":1911110,
     "ruleContent":"",
-    "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/ppcat.bin",
+    "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/config_play",
     "extraList":[
         {
             "title":"技术支持QQ群 970222959",
@@ -55,5 +55,5 @@
             "link":"https://gitee.com/gentle/Datas/raw/master/ppcat/disclaimer.txt"
         }
     ],
-    "shortUrlJs":"dmFyIHRpbWVvdXQ9c2V0VGltZW91dChmdW5jdGlvbigpew0KICBjYWxsYmFja01zZygiIik7DQp9LDEwMDAwKTsNCnRyeXsNCiAgJC5nZXQoImh0dHBzOi8vd3d3LmVjeC5jeC9hcGk/a2V5PXdTNG5OS3ZHaVcwUyZ1cmw9IitlbmNvZGVVUklDb21wb25lbnQoc291cmNlVXJsKSxmdW5jdGlvbihkYXRhLHN0YXR1cyl7DQogICAgaWYodHlwZW9mKGRhdGEpPT0nb2JqZWN0Jyl7DQogICAgICAgZGF0YT1kYXRhfHxzb3VyY2VVcmw7DQogICAgfQ0KICAgIGlmKGRhdGEuaW5kZXhPZigiaHR0cCIpIT0wKSBkYXRhPXNvdXJjZVVybDsNCiAgICBkYXRhPSJodHRwOi8vYy5wYy5xcS5jb20vbWlkZGxlbS5odG1sP3BmdXJsPSIrZW5jb2RlVVJJKGRhdGEpOw0KICAgIGNsZWFyVGltZW91dCh0aW1lb3V0KTsNCiAgICBjYWxsYmFja01zZyhkYXRhKQ0KICB9KTsgIA0KfWNhdGNoKGUpew0KICBjbGVhclRpbWVvdXQodGltZW91dCk7DQogIGNhbGxiYWNrTXNnKCIiKQ0KfQ=="
+    "shortUrlJs":"dmFyIHRpbWVvdXQ9c2V0VGltZW91dChmdW5jdGlvbigpew0KICBjYWxsYmFja01zZygiIik7DQp9LDEwMDAwKTsNCnRyeXsNCiAgJC5nZXQoImh0dHBzOi8vMzAyLmF0L2FwaS9zaG9ydGVuP2xvbmdVcmw9Ii8qICJodHRwczovL3d3dy5lY3guY3gvYXBpP2tleT13UzRuTkt2R2lXMFMmdXJsPSIgKi8rZW5jb2RlVVJJQ29tcG9uZW50KHNvdXJjZVVybC8qICsiJnRpbWU9IisobmV3IERhdGUoKSkuZ2V0VGltZSgpICovKSxmdW5jdGlvbihkYXRhLHN0YXR1cyl7DQogICAgaWYodHlwZW9mKGRhdGEpPT0nb2JqZWN0Jyl7DQogICAgICAgIGlmKGRhdGEuc2hvcnRJZCl7DQogICAgICAgICAgICBkYXRhPSdodHRwczovLzMwMi5hdC8nK2RhdGEuc2hvcnRJZDsNCiAgICAgICAgfWVsc2V7DQogICAgICAgICAgICBkYXRhPXNvdXJjZVVybDsNCiAgICAgICAgfQ0KICAgIH0NCiAgICBpZihkYXRhLmluZGV4T2YoImh0dHAiKSE9MCkgZGF0YT1zb3VyY2VVcmw7DQogICAgZGF0YT0iaHR0cDovL2MucGMucXEuY29tL21pZGRsZW0uaHRtbD9wZnVybD0iK2VuY29kZVVSSShkYXRhKTsNCiAgICBjbGVhclRpbWVvdXQodGltZW91dCk7DQogICAgY2FsbGJhY2tNc2coZGF0YSkNCiAgfSk7ICANCn1jYXRjaChlKXsNCiAgY2xlYXJUaW1lb3V0KHRpbWVvdXQpOw0KICBjYWxsYmFja01zZygiIikNCn0="
 }
