@@ -2,6 +2,7 @@
     "version":"0.5.9",
     "versionCode":201123,
     "forceVersion":201123,
+    "nextVersion":201222,
     "ruleVersion":2012190,
     "ruleContent":"",
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/config",
