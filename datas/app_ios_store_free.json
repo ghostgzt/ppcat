@@ -3,7 +3,7 @@
     "versionCode":200720,
     "forceVersion": 200720,
     "ruleVersion":2012270,
-    "ruleContent":"1.修复9个失效来源\n移除8个无效来源",
+    "ruleContent":"修复9个失效来源\n移除8个无效来源",
     "ruleBinUrl": "https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/config",
     "updateUrl": "https://apps.apple.com/cn/app/id1493174292",
     "updateContent": "",
