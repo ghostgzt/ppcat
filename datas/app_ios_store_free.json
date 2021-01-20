@@ -1,8 +1,7 @@
 {
-    "version":"0.4.0",
-    "versionCode":200720,
+    "version":"0.6.1",
+    "versionCode":210119,
     "forceVersion": 200720,
-    "nextVersion":210119,
     "ruleVersion":2101210,
     "ruleContent":"",
     "ruleBinUrl": "https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/config_ios",
@@ -30,7 +29,7 @@
             "link":"https://mp.weixin.qq.com/s/A8mZ9N1JRtkuT2GauMb8Zw"
         },
         {
-            "title":"皮皮喵IOS免费版",
+            "title":"皮皮喵IOS极速版",
             "link":"https://apps.apple.com/cn/app/id1493174292"
         },
         {
