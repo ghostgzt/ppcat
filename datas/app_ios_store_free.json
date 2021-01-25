@@ -2,6 +2,7 @@
     "version":"0.6.1",
     "versionCode":210119,
     "forceVersion": 200720,
+    "nextVersion":210125,
     "ruleVersion":2101260,
     "ruleContent":"修复动漫之家的神隐漫画",
     "ruleBinUrl": "https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/config_ios",
