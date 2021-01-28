@@ -8,8 +8,8 @@
     "updateUrl": "https://apps.apple.com/cn/app/id1493174292",
     "updateContent": "",
     "noticeId":200728,
-    "noticeContent":"关注公众号tips21,获取更多资源！欢迎加入皮皮喵QQ群(928585015)，已加其他群的不用加了，皮皮喵新手指导与说明请看群公告!",
-    "noticeUrl":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3D6DPSm3l-Dl-HNeEUvpzlcqYE_zx2L17S%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3Ds7emHJY5olyYHQVrWh%2F5qSB0gk07Eqm8Mds9pJOOYceQ0cbYDh%2FcJyO0qSx4HRFh%26source_id%3D3_40001",
+    "noticeContent":"关注公众号tips21,获取更多资源！欢迎加入皮皮喵QQ群(1025967070)，已加其他群的不用加了，皮皮喵新手指导与说明请看群公告!",
+    "noticeUrl":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DrC9BNIXTF0xzlccZr4rXiaWDl1GySVbp%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3DTtFonWanaLprobnc5RQ4BiueRmX5wpN%2FvHWWnNsfn%2Bhoij0uBK2lYOhWjvuTPKA0",
     "noticeBakUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
     "shareUrl": "https://share.gtool.ml/jump.html?ppcat=0",
     "wxName":"tips21",
@@ -70,8 +70,8 @@
 
         {
             "group": "Q群交流",
-            "title":"技术支持QQ群 928585015",
-            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3D6DPSm3l-Dl-HNeEUvpzlcqYE_zx2L17S%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3Ds7emHJY5olyYHQVrWh%2F5qSB0gk07Eqm8Mds9pJOOYceQ0cbYDh%2FcJyO0qSx4HRFh%26source_id%3D3_40001"
+            "title":"技术支持QQ群 1025967070",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DrC9BNIXTF0xzlccZr4rXiaWDl1GySVbp%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3DTtFonWanaLprobnc5RQ4BiueRmX5wpN%2FvHWWnNsfn%2Bhoij0uBK2lYOhWjvuTPKA0"
         },  
        
         {
