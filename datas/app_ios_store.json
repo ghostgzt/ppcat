@@ -7,7 +7,10 @@
     "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/config",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
     "updateContent":"请前往AppStore进行更新，搜索 皮皮喵漫画 有极速版",
-
+    "noticeId":200911,
+    "noticeContent":"欢迎关注公众号tips21,获取更多资源！加入皮皮喵QQ群(971470436)，皮皮喵新手指导与说明请看群公告!\n（非官方兑换码或共享盗版，会导致你的手机账号被永久封禁，出现远程锁定，数据被擦除等问题，请从正规途径购买或商店搜索极速的皮皮喵Lite！）",
+    "noticeUrl":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DpRpRZ8jpbIlhFDasEG9286AzUJc16V-r%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3DATO8LVZDrWg8OQEtSR3EVpTb9TJ%2FxEjYLaOTfR%2BiUIpyAZyDm0k%2B3OlCEMVLo75e%26source_id%3D3_40001",
+    "noticeBakUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
     "shareUrl":"https://share.gtool.ml/jump.html?ppcat=0",
     "wxName":"tips21",
     "showTips":true,
@@ -70,8 +73,8 @@
 
         {
             "group": "Q群交流",
-            "title":"技术支持QQ群 586475874",
-            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3D4Gf74Kngiy01VGVVvjyLExfCyT6sgizJ%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3DrILSlTKhHt1JZTa%2FoZmy6PCFyr%2B5o92p%2B6Q65AH74JMwEYnBc5sXuyb%2Bl5E%2FbIis%26source_id%3D3_40001"
+            "title":"技术支持QQ群 971470436",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DpRpRZ8jpbIlhFDasEG9286AzUJc16V-r%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3DATO8LVZDrWg8OQEtSR3EVpTb9TJ%2FxEjYLaOTfR%2BiUIpyAZyDm0k%2B3OlCEMVLo75e%26source_id%3D3_40001"
         },  
        
         {
