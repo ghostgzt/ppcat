@@ -1,0 +1,45 @@
+{
+    "version":"0.1.6",
+    "versionCode":191204,
+    "forceVersion":190926,
+    "ruleVersion":1912062,
+    "ruleContent":"增加近300+来源",
+	"ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
+    "updateUrl":"https://www.lanzous.com/b932237",
+    "updateContent":"下载地址 https://www.lanzous.com/b932237",
+    "betaCode":"16f4c3b35eb22c168506c2e8a7565c4b",
+    "extraList":[
+    	{
+    		"title":"ExView全平台小程序容器",
+    		"link":"https://www.lanzous.com/b743927"
+    	},
+    	{
+    		"title":"下载地址",
+    		"link":"https://www.lanzous.com/b932237"
+    	},
+    	{
+    		"title":"QQ群 970222959",
+    		"link":"https://jq.qq.com/?_wv=1027&k=5SIhgmD"
+    	},
+    	{
+    		"title":"QQ群 591859003",
+    		"link":"https://jq.qq.com/?_wv=1027&k=5GtT0XZ"
+    	},
+    	{
+    		"title":"QQ群 588751182",
+    		"link":"https://jq.qq.com/?_wv=1027&k=5y022t5"
+    	},
+        {
+            "title":"电报群（强烈推荐！）",
+            "link":"https://t.me/ExView1"
+        },
+        {
+            "title":"土豆群",
+            "link":"https://noone.ltd/ExView"
+        },
+    	{
+    		"title":"捐赠",
+    		"link":"http://t.cn/RG11bie"
+    	}  	
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "version":"0.6.30",
+    "versionCode":211003,
+    "forceVersion":210801,
+    "ruleVersion":2110190,
+    "ruleContent":"",
+    "ruleBinUrl": "",
+    "updateUrl": "https://apps.apple.com/cn/app/id1493174292",
+    "updateContent": "版本太旧，请升级最新版！",
+    "noticeId":200728,
+    "noticeContent":"此软件是免费软件，任何贩卖行为都与这软件无关！\n关注公众号tips21,获取更多资源！\n欢迎加入皮皮喵QQ群，已加其他群的不用加了，皮皮喵新手指导与说明请看群公告!",
+    "noticeUrl":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DaOK8tP0DAOShLuuM8LwH7OKF5yshatEG%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3DyYftGE4SmmUNIsHBKV2Rdaz8sSsSdpTgDJRFVwPzVcILyX33Gi6sMVAA4jG%2FMOn7%26source_id%3D3_40001",
+    "noticeBakUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
+    "androidDownloadUrl":"https://vip.lanzoux.com/b932237",
+    "introUrl": "http://mp.weixin.qq.com/s?__biz=MzIwOTM2ODUyOQ==&mid=2247484238&idx=1&sn=1fbb44fa139a7489c048f26935f940c7&chksm=9775a7f0a0022ee68051db838f56f235158d5269185f9639b8f109ddffc647023e80a5aaaf0a#rd",
+    "shareUrl": "https://dazzling-shaw-461e80.netlify.app/",
+    "wxName":"tips21",
+    "adMode":2,
+    "gitSearch": "皮皮喵",
+    "showTips":true,
+    "extraList": [
+        {
+            "title":"此版本已经不再维护，点击更新最新版",
+            "link":"https://apps.apple.com/cn/app/id1493174292"
+        }
+    ],
+    "shortUrlJs": ""
+}

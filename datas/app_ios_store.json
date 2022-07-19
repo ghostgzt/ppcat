@@ -1,0 +1,26 @@
+{
+    "version":"0.6.30",
+    "versionCode":211017,
+    "forceVersion":211017,
+    "ruleVersion":2110190,
+    "ruleContent":"",
+    "ruleBinUrl":"",
+    "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
+    "updateContent":"版本太旧，请升级最新版！",
+    "noticeId":2104240,
+    "noticeContent":"欢迎关注公众号tips21,获取更多资源！加入皮皮喵QQ群，皮皮喵新手指导与说明请看群公告!\n（非官方兑换码或共享盗版，会导致你的手机账号被永久封禁，出现远程锁定，数据被擦除等问题，请从正规途径购买或商店搜索免费的皮皮喵Lite！）",
+    "noticeUrl":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DpRpRZ8jpbIlhFDasEG9286AzUJc16V-r%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3DATO8LVZDrWg8OQEtSR3EVpTb9TJ%2FxEjYLaOTfR%2BiUIpyAZyDm0k%2B3OlCEMVLo75e%26source_id%3D3_40001",
+    "noticeBakUrl":"https://mp.weixin.qq.com/s/uhh1NIxU1RRIOZwUd1LX4A",
+    "introUrl": "http://mp.weixin.qq.com/s?__biz=MzIwOTM2ODUyOQ==&mid=2247484238&idx=1&sn=1fbb44fa139a7489c048f26935f940c7&chksm=9775a7f0a0022ee68051db838f56f235158d5269185f9639b8f109ddffc647023e80a5aaaf0a#rd",
+    "shareUrl":"https://dazzling-shaw-461e80.netlify.app/",
+    "wxName":"tips21",
+    "gitSearch": "皮皮喵",
+    "showTips":true,
+    "extraList":[
+        {
+            "title":"此版本已经不再维护，点击更新最新版",
+            "link":"https://apps.apple.com/cn/app/id1487839029"
+        }
+    ],
+    "shortUrlJs":""
+}

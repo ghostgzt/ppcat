@@ -1,0 +1,39 @@
+{
+    "version":"191111",
+    "versionCode":191111,
+    "forceVersion":190926,
+    "ruleVersion":1911110,
+    "ruleContent":"",
+    "ruleBinUrl":"https://raw.githubusercontent.com/ghostgzt/ppcat/master/datas/config_play",
+    "shareUrl":"https://dazzling-shaw-461e80.netlify.app/",
+    "extraList":[
+        {
+            "title":"加入QQ群和订阅公众号，获取更多来源、教程和苹果版本！",
+            "link":""
+        },
+        {
+            "title":"技术支持QQ群 708922606",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3D4ZzSvU4I649QJHidMHEI2C336fPCw07e%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3DLj59KoSQlad3TCbe39vK9kfJm3y7DkHSQ3XdrKUOVnmyyjbgB9rzZMA4zDqBsSh9%26source_id%3D3_40001"
+        }, 
+
+
+        {
+            "title":"技术支持QQ群 566392704",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DTiUcZ2DtwkieZjQVKlz67z-nFvtkjtBu%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D6rhjNqQaMzmB7vU%2F6rltLVSLiemS6auHPNylL%2FdPUCiD67xwKaFADQ%2FYKd%2FmN6aP%26source_id%3D3_40001"
+        },
+        {
+            "title":"技术支持QQ频道 皮皮喵",
+            "link":"mqqapi://forward/url?src_type=web&style=default&plg_auth=1&version=1&url_prefix=aHR0cHM6Ly9xdW4ucXEuY29tL3Fxd2ViL3F1bnByby9zaGFyZT9fd3Y9MyZfd3d2PTEyOCZpbnZpdGVDb2RlPVdzN2NNJmZyb209MjQ2NjEwJmJpej1rYQ=="
+        },  
+        {
+            "title":"技术支持讨论反馈",
+            "link":"https://support.qq.com/products/130931"
+        },
+
+        {
+            "title":"所有来源基于非人工检索方式从互联网搜索引擎自动收录，所有内容均来源于互联网",
+            "link":""
+        }
+    ],
+    "shortUrlJs":"dmFyIHRpbWVvdXQ9c2V0VGltZW91dChmdW5jdGlvbigpew0KICBjYWxsYmFja01zZygiIik7DQp9LDEwMDAwKTsNCnRyeXsNCiAgJC5nZXQoImh0dHBzOi8vMzAyLmF0L2FwaS9zaG9ydGVuP2xvbmdVcmw9IitlbmNvZGVVUklDb21wb25lbnQoc291cmNlVXJsKSxmdW5jdGlvbihkYXRhLHN0YXR1cyl7DQogICAgdHJ5ew0KICAgICAgICBkYXRhPUpTT04ucGFyc2UoZGF0YSk7DQogICAgfWNhdGNoKGUpe30NCiAgICBpZih0eXBlb2YoZGF0YSk9PSdvYmplY3QnKXsNCiAgICAgICAgaWYoZGF0YS5zaG9ydElkKXsNCiAgICAgICAgICAgIGRhdGE9J2h0dHBzOi8vMzAyLmF0LycrZGF0YS5zaG9ydElkOw0KICAgICAgICB9ZWxzZXsNCiAgICAgICAgICAgIGRhdGE9c291cmNlVXJsOw0KICAgICAgICB9DQogICAgfQ0KICAgIGlmKGRhdGEuaW5kZXhPZigiaHR0cCIpIT0wKSBkYXRhPXNvdXJjZVVybDsNCiAgICAvLyBkYXRhPSJodHRwOi8vYy5wYy5xcS5jb20vbWlkZGxlbS5odG1sP3BmdXJsPSIrZW5jb2RlVVJJKGRhdGEpOw0KICAgIGNsZWFyVGltZW91dCh0aW1lb3V0KTsNCiAgICBjYWxsYmFja01zZyhkYXRhKQ0KICB9KTsgIA0KfWNhdGNoKGUpew0KICBjbGVhclRpbWVvdXQodGltZW91dCk7DQogIGNhbGxiYWNrTXNnKCIiKQ0KfQ=="
+}
